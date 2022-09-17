@@ -1,0 +1,9 @@
+test:
+  username: ssong
+  password: 1234567*
+
+logging:
+  level:
+    root: info
+
+
